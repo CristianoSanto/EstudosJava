@@ -1,0 +1,15 @@
+package com.extreme.cursojava.aula12;
+
+public class lendoDadosNoTeclado {
+
+	public static void main(String[] args) {
+		//import java.util.Scanner;
+
+		//Scanner scan = new Scanner(System.in);
+		
+		String primeiroNome = scan.next();
+		int idade = scan.nextInt();
+		
+	}
+
+}
