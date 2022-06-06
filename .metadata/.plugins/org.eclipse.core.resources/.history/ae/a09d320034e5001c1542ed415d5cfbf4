@@ -1,0 +1,11 @@
+package com.extreme.cursojava.aula13;
+
+public class Exercicios {
+
+	public static void main(String[] args) {
+
+		//1
+		System.out.println("Alo Mundo!");
+	}
+
+}

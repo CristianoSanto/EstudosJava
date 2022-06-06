@@ -1,0 +1,17 @@
+package com.extreme.cursojava.aula13;
+
+public class Exercicios {
+
+	public static void main(String[] args) {
+
+		//1
+		System.out.println("Alo Mundo!");
+		
+		//2
+		System.out.println("Digite um número: ");
+		int num = scan.nextInt();
+		System.out.println("O número digitado é: " + num);
+		
+	}
+
+}

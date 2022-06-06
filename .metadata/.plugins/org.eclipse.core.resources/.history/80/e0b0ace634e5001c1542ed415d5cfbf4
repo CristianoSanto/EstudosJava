@@ -1,0 +1,26 @@
+package com.extreme.cursojava.aula13;
+
+import java.util.Scanner;
+
+
+public class Exercicios {
+
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+
+		//1
+		//System.out.println("Alo Mundo!");
+		
+		//2
+		//System.out.println("Digite um número: ");
+		//int numero = scan.nextInt();
+		//System.out.println("O número digitado é: " + numero);
+		
+		System.out.println("Digite sua idade: ");
+		int idade = scan.nextInt();
+		System.out.println("Sua idade é: " + idade);
+		
+	}
+
+}
