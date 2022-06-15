@@ -1,6 +1,6 @@
-package com.extreme.cursojava.aula13.Labs;
+package com.extreme.cursojava.aula15.Labs;
 
-public class Exercicio14 {
+public class Exercicio06 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
