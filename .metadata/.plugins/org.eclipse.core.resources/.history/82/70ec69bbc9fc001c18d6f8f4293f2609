@@ -1,0 +1,40 @@
+package com.extreme.cursojava.aula15.Labs;
+
+import java.util.Scanner;
+
+public class Exercicio20 {
+
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+
+		
+System.out.println("-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+");
+
+System.out.println("-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+");
+
+System.out.println("       Operação Quiz do CRIME");
+
+
+System.out.println("-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+");
+
+System.out.println("-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+");
+
+
+System.out.println("\nResponda as seguintes perguntas: ");
+
+System.out.println("\n1 -> Você telefonou para a vítima? ");
+
+System.out.println("\n2 -> Você esteve no local do crime? ");
+
+System.out.println("\n3 -> Você mora perto da vítima? ");
+
+System.out.println("\n4 -> Você devia para a vítima? ");
+
+System.out.println("\n5 -> Você já trabalhou com a vítima? ");
+		
+		
+
+	}
+
+}
